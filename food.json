@@ -3,7 +3,7 @@
     "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
     "imageUrl": "http://freefoodphotos.com/images/content/meat_preview.jpg",
     "price": 164,
-    "priceCurrency": "₹",
+    "priceCurrency": "Rs",
     "lat": 11.6854,
     "lng": 76.1320
   },
@@ -11,7 +11,7 @@
     "name": "Trendy Apt in Buttes Montmartre",
     "imageUrl": "http://freefoodphotos.com/images/content/seafood_preview.jpg",
     "price": 200,
-    "priceCurrency": "₹",
+    "priceCurrency": "Rs",
     "lat": 11.4413,
     "lng": 75.8202
   },
@@ -19,7 +19,7 @@
     "name": "Super 60m2 in trendy neighborhood!",
     "imageUrl": "http://freefoodphotos.com/imagelibrary/bread/thumbs/butter_teacake.jpg",
     "price": 150,
-    "priceCurrency": "₹",
+    "priceCurrency": "Rs",
     "lat": 11.2587,
     "lng": 75.7804
   },
@@ -27,7 +27,7 @@
     "name": "Splendide terrasse vue imprenable",
     "imageUrl": "http://freefoodphotos.com/imagelibrary/seafood/thumbs/cooked_trout.jpg",
     "price": 115,
-    "priceCurrency": "₹",
+    "priceCurrency": "Rs",
     "lat": 11.2699,
     "lng": 75.7815
   },
